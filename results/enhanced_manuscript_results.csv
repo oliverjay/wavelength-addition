@@ -1,0 +1,21 @@
+Analysis_Type,Parameter,Value,Unit,Description
+Signal_Noise_Analysis,Binary_Pulsar_SNR,427.2,unitless,Signal-to-noise ratio for SKA
+Signal_Noise_Analysis,Gravitational_Lensing_SNR,1.6,unitless,Signal-to-noise ratio for EHT
+Signal_Noise_Analysis,GRB_Time_Delay_SNR,31.6,unitless,Signal-to-noise ratio for Fermi
+Signal_Noise_Analysis,Laboratory_Interferometry_SNR,1.9,unitless,Signal-to-noise ratio for Advanced LIGO
+Theory_Comparison,WFT_Predictions,4,count,Number of falsifiable predictions
+Theory_Comparison,WFT_CMB_Modification,0.05,percent,CMB modification amplitude
+Theory_Comparison,WFT_GW_Scalar_Suppression,5.33e-05,unitless,Scalar mode suppression factor
+Theory_Comparison,LCDM_Predictions,0,count,Number of falsifiable predictions
+Theory_Comparison,Modified_Gravity_Predictions,2,count,Number of falsifiable predictions
+Theory_Comparison,Modified_Gravity_CMB_Modification,1.0,percent,CMB modification amplitude
+Technology_Timeline,Gravitational_Field_Manipulation,2040+,years,Realistic timeline
+Technology_Timeline,Advanced_Propulsion,2050+,years,Realistic timeline
+Technology_Timeline,Energy_Harvesting,2045+,years,Realistic timeline
+Technology_Timeline,Ultra_Sensitive_Detection,2025-2030,years,Realistic timeline
+Velocity_Derivation,Effective_Permittivity_Factor,g2,unitless,Coupling parameter for permittivity
+Velocity_Derivation,Effective_Permeability_Factor,g1,unitless,Coupling parameter for permeability
+Velocity_Derivation,Phase_Velocity_Correction,0.9999635146,unitless,Example velocity ratio
+Scalar_Mode_Analysis,Mixing_Suppression,5.33e-05,unitless,α² suppression factor
+Scalar_Mode_Analysis,Tensor_Mode_Speed,c,m/s,Propagation speed (preserves GR)
+Scalar_Mode_Analysis,Scalar_Mode_Speed,c,m/s,Propagation speed (preserves GR) 

@@ -1,0 +1,68 @@
+{
+  "title": "Beyond Einstein: A Complete Unified Field Theory from Wavelength Addition Principles",
+  "description": "Complete implementation of Wavelength Field Theory - a proposed unified field theory where all fundamental forces emerge from electromagnetic interactions through wavelength field dynamics. The theory addresses major challenges in modern physics whilst making specific, falsifiable predictions for upcoming experiments.",
+  "keywords": [
+    "unified field theory",
+    "symmetry breaking",
+    "goldstone boson",
+    "electromagnetic gravity",
+    "cosmological structure formation",
+    "experimental predictions",
+    "theoretical physics",
+    "quantum field theory",
+    "dark matter",
+    "dark energy"
+  ],
+  "creators": [
+    {
+      "name": "Hooton, Oliver Jay",
+      "orcid": "0009-0009-8775-1838",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "contributors": [],
+  "communities": [
+    {
+      "identifier": "theoretical-physics"
+    },
+    {
+      "identifier": "quantum-physics"
+    }
+  ],
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "license": "cc-by-nc-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "version": "v1.0.0",
+  "publication_date": "2025-07-20",
+  "subjects": [
+    {
+      "term": "Physics",
+      "identifier": "physics",
+      "scheme": "fos"
+    },
+    {
+      "term": "Theoretical Physics",
+      "identifier": "physics.theo-ph",
+      "scheme": "fos"
+    },
+    {
+      "term": "Quantum Physics",
+      "identifier": "physics.quant-ph",
+      "scheme": "fos"
+    }
+  ],
+  "references": [
+    "MICROSCOPE Collaboration (2022). MICROSCOPE mission: final results of the equivalence principle test. Physical Review Letters, 129(12), 121102.",
+    "LIGO Scientific Collaboration (2016). Observation of gravitational waves from a binary black hole merger. Physical Review Letters, 116(6), 061102.",
+    "Planck Collaboration (2020). Planck 2018 results. Astronomy & Astrophysics, 641, A1."
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/oliverjay/wavelength-addition",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+} 

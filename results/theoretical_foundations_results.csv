@@ -1,0 +1,17 @@
+Parameter,Value,Unit,Description
+Symmetry_Breaking_Scale,200,MeV,Scale at which scale invariance breaks
+Fine_Structure_Constant,0.007297,unitless,Natural coupling constant
+VEV_Scale,2341.2,MeV,Vacuum expectation value scale
+Wavelength_Field_Range,8.43e-17,m,Characteristic wavelength field range
+Planck_Length,1.62e-35,m,Planck length scale
+Extra_Dimension_Size,4.72e-36,m,Size of extra dimension
+Compactification_Scale,4.18e+28,eV,Compactification mass scale
+Power_Spectrum_Change,0.0,percent,Change in power spectrum at k > 0.1 h/Mpc
+BAO_Scale_Shift,0.01,percent,BAO scale shift at z = 1
+CMB_Peak_Modification,0.1,microK2,CMB peak position modifications
+Growth_Rate_Change,0.01,percent,Growth rate change at z = 1
+Scalar_Mode_Suppression,5.33e-05,unitless,α² suppression factor
+Tensor_Strain_Typical,1e-21,unitless,Typical tensor strain amplitude
+Scalar_Strain_Amplitude,5e-26,unitless,Scalar mode strain amplitude
+LIGO_Sensitivity,1e-21,unitless,Current LIGO sensitivity
+Scalar_Detectability_Ratio,5e-05,unitless,Ratio of scalar mode to LIGO threshold 

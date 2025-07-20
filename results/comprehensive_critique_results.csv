@@ -1,0 +1,13 @@
+Prediction,Value,Unit,Detectability,Timeline,Experiment
+Binary_Pulsar_Timing,100,ns/year,High,2025-2028,SKA
+Gravitational_Lensing_Wavelength,10,microarcsec,Marginal,2025-2030,EHT
+Gamma_Ray_Burst_Delay,1.0,seconds,Very High,Ongoing,Fermi/Swift
+Laboratory_Interferometry,1e-24,strain equivalent,Low,2025+,Advanced LIGO
+Scalar_Mode_Suppression,2.84e-09,unitless,Below threshold,Current,LIGO/Virgo
+Velocity_Modification_Example,0.9999635146,unitless,Theoretical,NA,Example calculation
+EM_Fraction_Hydrogen,0.000000,unitless,NA,NA,Material property
+EM_Fraction_Iron,0.009379,unitless,NA,NA,Material property
+EM_Fraction_Neutron_Star,0.213151,unitless,NA,NA,Material property
+Field_Mass,5.07e-27,eV,NA,NA,Cosmological evolution
+Present_Equation_of_State,-1.000,unitless,NA,NA,Cosmological evolution
+Field_Energy_Fraction,0.000,unitless,NA,NA,Cosmological evolution 

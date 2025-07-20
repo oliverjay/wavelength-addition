@@ -1,0 +1,22 @@
+Parameter,Value,Unit,Description,Constraint_Source
+Cutoff_Scale,6.52,GeV,Effective field theory cutoff scale,Planck scale
+Coupling_Constant,0.007297,unitless,Fine structure constant coupling,Natural constant
+Field_Scale,5.83e+03,m,Characteristic field scale,Derived
+Higgs_VEV,246,GeV,Higgs vacuum expectation value,Electroweak scale
+Portal_Coupling,1e-06,unitless,Maximum portal coupling,Fifth force experiments
+Wavelength_Field_Mass,2.17e+27,eV,Maximum wavelength field mass,Derived
+g1_Constraint,3.16e-07,unitless,Maximum g₁ coupling,Eöt-Wash experiment
+g2_Constraint,3.16e-08,unitless,Maximum g₂ coupling,MICROSCOPE satellite
+alpha1_Constraint,3.16e-06,unitless,Maximum α₁ coupling,Lunar laser ranging
+alpha2_Constraint,3.16e-08,unitless,Maximum α₂ coupling,LIGO/Virgo observations
+Mercury_Perihelion_GR,43.03,arcsec/century,GR prediction for Mercury perihelion,Theory
+Mercury_Perihelion_WFT,2.14e-170,arcsec/century,WFT correction to perihelion,Calculated
+Shapiro_Delay_GR,19.7,microseconds,GR prediction for Shapiro delay,Theory
+Shapiro_Delay_WFT,0.00,picoseconds,WFT correction to Shapiro delay,Calculated
+Light_Deflection_GR,1.75,arcsec,GR prediction for light deflection,Theory
+Light_Deflection_WFT,6.02e-168,arcsec,WFT correction to light deflection,Calculated
+Wavelength_Field_Density,1e-30,kg/m3,Wavelength field energy density,Calculated
+Critical_Density,9e-27,kg/m3,Critical density of universe,Observation
+GW_Speed_Correction,1e-70,unitless,Gravitational wave speed correction,Calculated
+LIGO_Speed_Constraint,1e-15,unitless,LIGO constraint on GW speed,Experiment
+Scalar_Mode_Suppression,5e-05,unitless,Scalar mode suppression factor,Calculated 
