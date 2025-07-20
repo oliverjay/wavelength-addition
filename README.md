@@ -1,6 +1,6 @@
 # Beyond Einstein: A Complete Unified Field Theory from Wavelength Addition Principles
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16233160.svg)](https://doi.org/10.5281/zenodo.16233160)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![Status: Validated](https://img.shields.io/badge/Status-Validated-green.svg)](https://github.com/oliverjay/wavelength-addition)
@@ -201,12 +201,12 @@ If you use this work in your research, please cite:
   year={2025},
   version={v1.0.0},
   publisher={Zenodo},
-  doi={10.5281/zenodo.XXXXXXX},
-  url={https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi={10.5281/zenodo.16233160},
+  url={https://doi.org/10.5281/zenodo.16233160}
 }
 ```
 
-**Note:** Replace `XXXXXXX` with your actual Zenodo DOI after upload.
+**Note:** This DOI is now active and permanent.
 
 ## Contributing
 
