@@ -230,37 +230,6 @@ Independent Researcher
 Email: oliver.j.hooton@gmail.com  
 GitHub: [@oliverjay](https://github.com/oliverjay)
 
-## Peer Review Corrections
-
-### Critical Issues Resolved (January 2025)
-
-All major peer review issues have been systematically corrected:
-
-✅ **Parameter Constraint Inconsistencies** - Fixed 47 orders of magnitude difference  
-✅ **Unphysical Field Mass** - Corrected from 12 orders above Planck mass to realistic values  
-✅ **Inconsistent Cutoff Scale** - Fixed from 6.52 GeV to proper Planck scale  
-✅ **Solar System Test Calculations** - Corrected wavelength field calculations  
-✅ **Gravitational Wave Modifications** - Added proper α² suppression factors  
-✅ **Material Property Calculations** - Fixed quantum mechanical treatment  
-✅ **Systematic Error Analysis** - Added realistic uncertainties  
-
-### Updated Results
-
-- **g₁ constraint:** < 3.16×10⁻⁷ (from Eöt-Wash)
-- **g₂ constraint:** < 3.16×10⁻⁸ (from MICROSCOPE)  
-- **α₁ constraint:** < 3.16×10⁻⁶ (from LLR)
-- **α₂ constraint:** < 3.16×10⁻⁸ (from LIGO/Virgo)
-- **Mercury perihelion correction:** 2.14×10⁻¹⁷⁰ arcsec/century
-- **Light deflection correction:** 6.02×10⁻¹⁶⁸ arcsec
-- **GW speed correction:** Δc/c ~ 10⁻⁷⁰
-
-### Publication Status
-
-- **Before corrections:** MAJOR REVISION REQUIRED (7 critical issues)
-- **After corrections:** MINOR REVISION REQUIRED (0 critical issues)
-- **Status:** READY FOR RESUBMISSION
-
-## Acknowledgements
 
 Special thanks to the global physics community for maintaining open access to observational data and theoretical frameworks. Recognition goes to the DESI, Planck, LIGO/Virgo, MICROSCOPE, and Eöt-Washington collaborations for providing the precision measurements that enable rigorous parameter constraints.
 
