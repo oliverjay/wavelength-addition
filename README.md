@@ -26,8 +26,8 @@ final_clean_package/
 ├── README.md                    # This file
 ├── LICENSE                      # Creative Commons BY-NC 4.0 License
 ├── manuscript/                  # Complete academic manuscript
-│   ├── Beyond_Einstein_Complete_Comprehensive.pdf
-│   └── Beyond_Einstein_Complete_Comprehensive.tex
+│   ├── Complete_Unified_Field_Theory.pdf
+│   └── Complete_Unified_Field_Theory.tex
 ├── src/                         # Core Python implementations
 │   ├── wavelength_field_validation.py      # ✅ 30-test validation suite
 │   ├── theoretical_foundations.py          # ✅ Advanced theoretical analysis
